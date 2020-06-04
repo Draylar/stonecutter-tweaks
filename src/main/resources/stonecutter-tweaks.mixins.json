@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "draylar.stonecuttertweaks.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "StonecutterContainerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
